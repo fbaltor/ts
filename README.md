@@ -1,3 +1,3 @@
-# Simple typescript + NodeJS starter
+# Simple TypeScript + NodeJS starter
 
-Repo created to better understand all the fundamental configurations for a properly typescript + NodeJS setup.
+Repo created to better understand all the fundamental configurations of a modern js based server setup.
